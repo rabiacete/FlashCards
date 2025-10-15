@@ -40,7 +40,7 @@ Built with **Swift (UIKit)** and **MVVM architecture** for a smooth, minimal, an
 ## 👩‍💻 Author
 **Rabia Çete**  
 📱 iOS Developer  
-[LinkedIn]([https://linkedin.com/in/rabiacete](https://www.linkedin.com/in/rabia-cete/)) • [App Store](https://apps.apple.com/tr/app/flashcards/id6752308967?l=tr)
+[LinkedIn](https://www.linkedin.com/in/rabia-cete/) • [App Store](https://apps.apple.com/tr/app/flashcards/id6752308967?l=tr)
 
 ---
 
